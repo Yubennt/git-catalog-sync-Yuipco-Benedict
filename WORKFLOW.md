@@ -17,10 +17,10 @@ In Task 5, using `git merge` preserved the explicit branching history by creatin
 To prevent all three rejected pushes, the team should adopt a process where contributors communicate before pushing and pull upstream changes frequently (`git pull --rebase origin feature/late-fee-policy`) before making or pushing local commits. Alternatively, using short-lived feature branches with Pull Requests (PRs) and branch protection rules would ensure code integration happens sequentially via peer review.
 
 ## Screenshots
-![Task 1](screenshots/task1.png)
-![Task 2](screenshots/task2.png)
-![Task 3](screenshots/task3.png)
-![Task 4](screenshots/task4.png)
-![Task 5](screenshots/task5.png)
-![Task 6](screenshots/task6.png)
-![Task 7](screenshots/task7.png)
+![Task 1](screenshots/Task1.png)
+![Task 2](screenshots/Task2.png)
+![Task 3](screenshots/Task3.png)
+![Task 4](screenshots/Task4.png)
+![Task 5](screenshots/Task5.png)
+![Task 6](screenshots/Task6.png)
+![Task 7](screenshots/Task7.png)
